@@ -1,14 +1,23 @@
+
  # RESUME CV – SENIOR FULL STACK WEB DEVELOPER & TEAM MANAGER
- ## Ariza, Gabriel
- ### (12+ Years of Professional Development Experience)
- 📍 Goiânia - Go, São Paulo - SP | Brazil  
- 📧 Email: gabriel@arizapp.com.br / myblenet@gmail.com  
- 📱 Whatsapp: +55 062 992-776-060 | 📞 Phone: +55 062 993-223-016  
+
+<img src="https://shrtm.nu/mZL" alt="Gabriel Ariza's Profile Picture" style="width: 40%; display: block; margin-left: auto; margin-left: 15;">
+ 
+ **Ariza, Gabriel**<br/>
+ *(12+ Years of Professional Development Experience)*
+ ---
+ <div align="right">
+    📍 Goiânia - Go, São Paulo - SP | Brazil<br/>  
+    📧 Email: gabriel@arizapp.com.br / myblenet@gmail.com <br/>
+    📱 Whatsapp: +55 062 992-776-060 | 📞 Phone: +55 062 993-223-016  
+</div>
+
+ ---
 
  ## <span style="color:#333444">EXECUTIVE SUMMARY</span>
  Accomplished Full Stack Web Developer and Manager with a robust 12-year track record in software development and leadership. Specializing in the creation of complex, scalable applications across various industries, I bring a wealth of expertise in Full Stack & Blockchain Development with proficiencies in `Node.js`, `JavaScript`, `TypeScript`, `React`, `Angular.js`, `PHP`, `MySQL`, `PostgreSQL`, `MongoDB`, `Firebase`, `Python`, and more. My technical acumen extends to `Docker`, `AWS`, `Azure DevOps`, `Terraform`, and `Kubernetes`, underpinned by a commitment to best practices, design patterns, and agile methodologies for TDD/ODD CI/CD. My solutions are crafted to address real-world challenges and deliver value-driven results to clients.
 
- A seasoned strategist and analyst, my career has been marked by direct client engagement, fostering my skills in problem-solving and project execution. With over 5 years in leadership positions, I have consistently steered teams towards success, serving as a tech lead, CEO, and CTO. My experience spans running my own marketing agency to partnering in a technology consultancy, where I have delivered integrated sales solutions in line with digital marketing strategies to propel business growth.
+ A seasoned strategist and analyst, my career has been marked by direct client engagement, fostering my skills in problem-solving and project execution. With over 6 years in leadership positions, I have consistently steered teams towards success, serving as a tech lead, CEO, and CTO. My experience spans running my own marketing agency to partnering in a technology consultancy, where I have delivered integrated sales solutions in line with digital marketing strategies to propel business growth.
 
  Client collaboration and communication are the cornerstones of my approach, ensuring a clear understanding of client needs and their translation into effective team directives. As a Full Stack & Blockchain Developer, I am dedicated to continuous technological advancement, equipping me to provide informed guidance and superior outcomes for clients.
 
