@@ -1,7 +1,7 @@
 
  # RESUME CV – SENIOR FULL STACK WEB DEVELOPER & TEAM MANAGER
 
-<img src="https://shrtm.nu/mZL" alt="Gabriel Ariza's Profile Picture" style="width: 40%; display: block; margin-left: auto; margin-left: 15;">
+<img src="https://media.cleanshot.cloud/media/72801/nBBplFxC9aUpEfMNTCk4AGbgHRrbdR79uwDtVHuk.jpeg?Expires=1701130066&Signature=V~y53iiDFkufjUnz426cNon~W9FRHLuj1pnchIn4byyN-F3OUfHpV~P-8ezVk5fNmM21DrrCxMyJtuweDYVmwXDrZHxp8toCKa9k97sFZEBfKbQGXY7CCF-k0jHAzoZAn8BJgbsI6V0LxI-68DkWpTsWVTvZ0AtXKbI5PLMLc0OaHvgRQlrjiyweM3cQxjzUfpLpfphfPhwFut6hlwe23YhU6klNQ93Z4dXTBFCko5~8dQ~vON8lL76Vr8vz0UkJ7gRZkjoTXw48-VYfu3osaz1PO9S4NJiRUIgs2pR~YdKSnWm~mwlakZRLm6Y7JgQnJOYvKQaE6fzz8zTDkRoBEA__&Key-Pair-Id=K269JMAT9ZF4GZ" alt="Gabriel Ariza's Profile Picture" style="width: 40%; display: block; margin-left: auto; margin-left: 15;">
  
  **Ariza, Gabriel**<br/>
  *(12+ Years of Professional Development Experience)*
@@ -15,18 +15,53 @@
  ---
 
  ## <span style="color:#333444">EXECUTIVE SUMMARY</span>
- Accomplished Full Stack Web Developer and Manager with a robust 12-year track record in software development and leadership. Specializing in the creation of complex, scalable applications across various industries, I bring a wealth of expertise in Full Stack & Blockchain Development with proficiencies in `Node.js`, `JavaScript`, `TypeScript`, `React`, `Angular.js`, `PHP`, `MySQL`, `PostgreSQL`, `MongoDB`, `Firebase`, `Python`, and more. My technical acumen extends to `Docker`, `AWS`, `Azure DevOps`, `Terraform`, and `Kubernetes`, underpinned by a commitment to best practices, design patterns, and agile methodologies for TDD/ODD CI/CD. My solutions are crafted to address real-world challenges and deliver value-driven results to clients.
+ Accomplished Full Stack Web Developer and Manager with a robust 12-year track record in software development and leadership. Specializing in the creation of complex, scalable applications across various industries, I bring a wealth of expertise in Full Stack Development with expertise in React, React.js, PHP, MySQL, Node.js, JavaScript, TypeScript, and others. 
 
- A seasoned strategist and analyst, my career has been marked by direct client engagement, fostering my skills in problem-solving and project execution. With over 6 years in leadership positions, I have consistently steered teams towards success, serving as a tech lead, CEO, and CTO. My experience spans running my own marketing agency to partnering in a technology consultancy, where I have delivered integrated sales solutions in line with digital marketing strategies to propel business growth.
+My technical acumen extends to Docker, AWS, Kubernetes, underpinned by a commitment to best practices, design patterns, and agile methodologies for TDD/ODD/DDD CI/CD. 
 
- Client collaboration and communication are the cornerstones of my approach, ensuring a clear understanding of client needs and their translation into effective team directives. As a Full Stack & Blockchain Developer, I am dedicated to continuous technological advancement, equipping me to provide informed guidance and superior outcomes for clients.
+My solutions are crafted to address real-world challenges and deliver value-driven results to clients by direct client engagement, fostering my skills in problem-solving and project execution. 
 
- ### <span style="color:#333444">CAREER HIGHLIGHTS</span>
- - A solid foundation of over 12 years in software development.
- - Proficient in `AWS`, `Docker`, `Git`, `Kubernetes`, among other programming languages.
- - Proven leadership with 7+ years in executive and managerial roles.
- - Exceptional communicator, adept at aligning client objectives with technical solutions.
- - Lifelong learner, committed to staying at the forefront of technology and industry standards.
+I am dedicated to continuous technological advancement, equipping me to provide informed guidance and superior outcomes for clients.
+
+## CORE COMPETENCIES
+**TECHNICAL SKILLS**
+- PHP (13+ years)
+- JavaScript (10+ years)
+- API REST-FULL (8+ years)
+- GraphQL (4 years)
+- React (7+ years)
+- NodeJs (8 years)
+- TypeScript (7+ years)
+- SQL/NoSQL (10+ years)
+- Python (4 years)
+- Ruby/Ruby on Rails (5 years)
+- Git/Gitflow (9 years)
+- Agile/Scrum (6+ years)
+- Gitflow as standards consensus’s (5 years)
+- AWS Services - EC2, S3, RDS
+- Docker (4+ years) 
+- Kubernetes (2+ years)
+- DevOps - CI/CD (7+ years)
+- OOP (12+ years)
+
+**BLOCKCHAIN TECHNOLOGIES**
+- Rust, NEAR
+- Solidity, Ethereum
+
+## LEADERSHIP & STRATEGIC PLANNING
+- Visionary Team Leadership
+- Strategic Project Management
+- Continuous Process Improvement
+- Agile & Scrum Methodologies
+- Client Engagement & Collaboration
+- Cross-functional Team Integration
+
+### <span style="color:#333444">CAREER HIGHLIGHTS</span>
+- A solid foundation of over 12 years in software development.
+- Proficient in AWS, Docker, Git, Kubernetes, among other programming languages.
+- Proven leadership with 7+ years in executive and managerial roles.
+- Exceptional communicator, adept at aligning client objectives with technical solutions.
+- Lifelong learner, committed to staying at the forefront of technology and industry standards.
 
  ## <span style="color:#333444">PROFESSIONAL EXPERIENCE</span>
  ### <span style="color:#FF1493">TATA Consultancy Services (TCS) | FLY EMBRAER — Senior Consultant & Full Stack Developer</span>
