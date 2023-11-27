@@ -1,5 +1,5 @@
 
- # RESUME CV – SENIOR FULL STACK WEB DEVELOPER & TEAM MANAGER
+ # ARIZA GABRIEL | RESUME CV – SENIOR FULL STACK WEB DEVELOPER & TEAM LEADER
 
 <img src="https://media.cleanshot.cloud/media/72801/nBBplFxC9aUpEfMNTCk4AGbgHRrbdR79uwDtVHuk.jpeg?Expires=1701130066&Signature=V~y53iiDFkufjUnz426cNon~W9FRHLuj1pnchIn4byyN-F3OUfHpV~P-8ezVk5fNmM21DrrCxMyJtuweDYVmwXDrZHxp8toCKa9k97sFZEBfKbQGXY7CCF-k0jHAzoZAn8BJgbsI6V0LxI-68DkWpTsWVTvZ0AtXKbI5PLMLc0OaHvgRQlrjiyweM3cQxjzUfpLpfphfPhwFut6hlwe23YhU6klNQ93Z4dXTBFCko5~8dQ~vON8lL76Vr8vz0UkJ7gRZkjoTXw48-VYfu3osaz1PO9S4NJiRUIgs2pR~YdKSnWm~mwlakZRLm6Y7JgQnJOYvKQaE6fzz8zTDkRoBEA__&Key-Pair-Id=K269JMAT9ZF4GZ" alt="Gabriel Ariza's Profile Picture" style="width: 40%; display: block; margin-left: auto; margin-left: 15;">
  
@@ -13,15 +13,6 @@
 </div>
 
  ---
-
-# ARIZA GABRIEL | RESUME CV – SENIOR FULL STACK WEB DEVELOPER & TEAM LEADER
-
-**Ariza, Gabriel**  
-12+ Years of Professional FullStack Development Experience  
-Goiânia - Go, São Paulo - SP | Brazil  
-Email: myblenet@gmail.com / gabriel@arizapp.com.br  
-Whatsapp: +55 062 992-776-060 | Phone: +55 062 993-223-016  
-
 ## <span style="color:#333444">SUMMARY</span>
 Accomplished Full Stack Web Developer and Manager with a robust 12-year track record in software development and leadership. Specializing in the creation of complex, scalable applications across various industries, I bring a wealth of expertise in Full Stack Development with expertise in React, React.js, PHP, MySQL, Node.js, JavaScript, TypeScript, and others. 
 
