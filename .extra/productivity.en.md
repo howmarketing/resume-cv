@@ -1,9 +1,11 @@
-# Productivity 
+# **Productivity:**
 
-## Suggested Title: 
- - Daily Productivity Kickstart Checklist
+## **Suggested Title:**
 
-## Tasks:
+- Daily Productivity Kickstart Checklist
+
+## **Tasks:**
+
 - [ ] Wake up and head to the bathroom to splash water on your face, then dry off and go to the kitchen to drink a glass of cold water. Bring a water bottle back to your office to ensure regular hydration.
 - [ ] Set a 1h30min timer to refill your water bottle.
 - [ ] Start another 20min timer to stand up from your chair every 20 minutes, stretch your spine, perform two progressively higher jumps, and walk at least 20 steps before sitting down again.
@@ -19,18 +21,16 @@
   - [ ] Have strategies to minimize focus deviations in the next Pomodoro.
 - [ ] After completing a task, briefly engage in the Recursive Self-Analysis of Focus Behavior, preparing for a more in-depth review at the end of the Pomodoro.
 
+## **Trash:**
 
-## Trash
-
-### Markdown Tests
+### **Markdown Tests:**
 
 - [X] Teste;
 - [ ] Teste;
-  - [ ] Teste; 
-  - [X] Teste; 
+  - [ ] Teste;
+  - [X] Teste;
 
-
-### Texts
+### **Texts:**
 
 - Commit saving the description:
 Adding the trash section on the productivity markdown file
