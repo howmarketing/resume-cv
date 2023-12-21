@@ -11,13 +11,13 @@
 - [ ] Tente por não mais que 2 minutos passar em sua mente quais são as 3 principais tarefas do dia;
 - [ ] Tente agora por até 1 minuto pensar qual das tarefas deva ser a primeira tarefa a ser executada;
 - [ ] Tente agora mentalizar imagens que percorrem em quadros tipo história em quadrinhos as ações que você fará para finalizar essa primeira tarefa;
-- [ ] Inicie o Pomodoro de 25 minutos com 8 minutos de descanso sendo que, desses 8 minutos, até 3 minutos poderão ser usados para a etapa recursiva de Auto-análise comportamental durante o foco;
-- [ ] Etapa recursiva de Auto-análise comportamental durante o foco: Faça uma auto-análise para julgar se você:
+- [ ] Inicie o Pomodoro de 25 minutos com 8 minutos de descanso sendo que, desses 8 minutos, até 3 minutos poderão ser usados para a etapa recursiva de Autoanálise comportamental durante o foco;
+- [ ] Etapa recursiva de Autoanálise comportamental durante o foco: Faça uma Autoanálise para julgar se você:
   - [ ] Está na tarefa que deveria estar;
   - [ ] Se esta satisfeito com sua produtividade;
   - [ ] Se aconteceram desvios de foco;
   - [ ] O que fará para ter menos desvio de foco no próximo pomodoro;
-- [ ] Sempre que acabar uma tarefa, inicie a etapa recursiva de Auto-Análise Comportamental durante foco de forma superficial, pois deverá iniciar essa etapa de forma profunda no término do pomodoro;
+- [ ] Sempre que acabar uma tarefa, inicie a etapa recursiva de Autoanálise Comportamental durante foco de forma superficial, pois deverá iniciar essa etapa de forma profunda no término do pomodoro;
 
 
 ## Trash
