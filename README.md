@@ -1,20 +1,21 @@
+# RESUME CV – SENIOR FULL STACK WEB DEVELOPER & TEAM MANAGER
 
- # RESUME CV – SENIOR FULL STACK WEB DEVELOPER & TEAM MANAGER
+![Profile Picture](https://avatars.githubusercontent.com/u/72627426?v=4)
 
-<img src="https://media.cleanshot.cloud/media/72801/nBBplFxC9aUpEfMNTCk4AGbgHRrbdR79uwDtVHuk.jpeg?Expires=1701130066&Signature=V~y53iiDFkufjUnz426cNon~W9FRHLuj1pnchIn4byyN-F3OUfHpV~P-8ezVk5fNmM21DrrCxMyJtuweDYVmwXDrZHxp8toCKa9k97sFZEBfKbQGXY7CCF-k0jHAzoZAn8BJgbsI6V0LxI-68DkWpTsWVTvZ0AtXKbI5PLMLc0OaHvgRQlrjiyweM3cQxjzUfpLpfphfPhwFut6hlwe23YhU6klNQ93Z4dXTBFCko5~8dQ~vON8lL76Vr8vz0UkJ7gRZkjoTXw48-VYfu3osaz1PO9S4NJiRUIgs2pR~YdKSnWm~mwlakZRLm6Y7JgQnJOYvKQaE6fzz8zTDkRoBEA__&Key-Pair-Id=K269JMAT9ZF4GZ" alt="Gabriel Ariza's Profile Picture" style="width: 40%; display: block; margin-left: auto; margin-left: 15;">
- 
- **Ariza, Gabriel**<br/>
+ ---
+**Ariza, Gabriel**
  *(12+ Years of Professional Development Experience)*
- ---
- <div align="right">
-    📍 Goiânia - Go, São Paulo - SP | Brazil<br/>  
-    📧 Email: gabriel@arizapp.com.br / myblenet@gmail.com <br/>
-    📱 Whatsapp: +55 062 992-776-060 | 📞 Phone: +55 062 993-223-016  
-</div>
 
- ---
+**Software Engineer**  
+**📍 Location:** Goiânia - Go, São Paulo - SP, Curitiba - PR, Brazil  
+**📧 Phone:** +55 062 992-776-060  
+**📱 Email:** [myblenet@gmail.com](mailto:myblenet@gmail.com)  
+**LinkedIn:** [linkedin.com/in/gabriel-ariza-37817a96](https://linkedin.com/in/gabriel-ariza-37817a96)  
+**GitHub:** [github.com/howmarketing](https://github.com/howmarketing)
 
- ## <span style="color:#333444">EXECUTIVE SUMMARY</span>
+---
+
+## <span style="color:#333444">SUMMARY</span>
  Accomplished Full Stack Web Developer and Manager with a robust 12-year track record in software development and leadership. Specializing in the creation of complex, scalable applications across various industries, I bring a wealth of expertise in Full Stack Development with expertise in React, React.js, PHP, MySQL, Node.js, JavaScript, TypeScript, and others. 
 
 My technical acumen extends to Docker, AWS, Kubernetes, underpinned by a commitment to best practices, design patterns, and agile methodologies for TDD/ODD/DDD CI/CD. 
@@ -23,8 +24,7 @@ My solutions are crafted to address real-world challenges and deliver value-driv
 
 I am dedicated to continuous technological advancement, equipping me to provide informed guidance and superior outcomes for clients.
 
-## CORE COMPETENCIES
-**TECHNICAL SKILLS**
+## TECHNICAL SKILLS
 - PHP (13+ years)
 - JavaScript (10+ years)
 - API REST-FULL (8+ years)
