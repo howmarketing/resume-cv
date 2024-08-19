@@ -10,8 +10,8 @@
 **📍 Location:** Goiânia - Go, São Paulo - SP, Curitiba - PR, Brazil  
 **📱 Whatsapp:** [+55 062 992-776-060](https://wa.me/+55062992776060) | 📞 Phone: [+55 062 993-223-016](tel:+5562993223016)  
 **📧 Email:** [myblenet@gmail.com](mailto:myblenet@gmail.com)  
-**LinkedIn:** [linkedin.com/in/gabriel-ariza-37817a96](https://linkedin.com/in/gabriel-ariza-37817a96)  
-**GitHub:** [github.com/howmarketing](https://github.com/howmarketing/resume-cv)
+**LinkedIn:** [linkedin.com/in/gabriel-ariza-dev](https://linkedin.com/in/gabriel-ariza-dev)  
+**GitHub:** [github.com/howmarketing](https://github.com/howmarketing)
 
 ---
 
