@@ -16,15 +16,12 @@ Full Stack Developer & Team Leader
 ---
 
 ## <span style="color:#333444">SUMMARY</span>
- Sr. Software Engineer with over 10 years of experience in Full Stack development, including leadership roles and Agile/Scrum methodology. My solutions are crafted to address real-world challenges and deliver value-driven results to clients through direct engagement, enhancing my skills in problem-solving and project execution.
 
-Experienced with complex and scalable applications, including distributed systems that horizontally auto-scale with Kubernetes and AWS services such as EC2, S3, and ELB. As an experienced problem solver with a background in a wide range of industries, I have specialized in Agile development processes and CI/CD pipeline automation, focusing on client satisfaction.
-
-Dedicated to continuous learning and providing team guidance, I am committed to advancing my skills and supporting my team in achieving excellence.
-
----
-
-## TECHNICAL SKILLS
+- Sr. Software Engineer with over 10 years of experience in Full Stack development and leadership roles.
+- Skilled in Agile/Scrum methodologies, delivering value-driven solutions.
+- Expertise in complex applications, distributed systems, Kubernetes, and AWS services.
+- As an experienced problem solver with a background in a wide range of industries, I have specialized in Agile development processes and CI/CD pipeline automation, focusing on client satisfaction.
+- Dedicated to continuous learning and providing team guidance, I am committed to advancing my skills and supporting my team in achieving excellence.
 
 **Technical Skills**
 
@@ -50,30 +47,27 @@ Dedicated to continuous learning and providing team guidance, I am committed to 
   * RebbitMQ (1 year)  
   * Apache Kafka
 
-### Leadership and Strategic Planning
+**Leadership & Strategic Planning**
 
-- Team Leadership & Mentorship
-- Agile Methodologies (Scrum)
-- Client Engagement & Collaboration
-- Strategic Project Management
-- Continuous Process Improvement
+* Team Leadership & Mentorship
+* Agile Methodologies (Scrum)
+* Client Engagement & Collaboration
+* Strategic Project Management
+* Continuous Process Improvement
 
----
-
-## Professional Experience
+**Professional Experience**
 
 ### TATA Consultancy Services (TCS)
 
 *Senior FullStack TechLead Developer*  
 *October 2022 - Nov 2023*  
-*Remote (Germany/Mexico/Brazil/Portugal/USA)*
+*Remote (India/Brazil/Germany/Mexico/Portugal/USA)*
 
 #### FLY-EMBRAER
 
 - [Figma](https://www.figma.com/file/iEaKoyPVMYaAFYgBKEoMfh/FlyEmbraer?type=whiteboard&node-id=1040%3A98121&t=K0lmTsv2JLoxWt3Q-1)
-- The outcome of the project was the successful transformation of Embraer's aviation CRM System a large scale distributed system (intranet).   
-- This involved leveraging various technologies such as Microsoft DevOps, AWS, Docker, Kubernetes, Git/Git-Flow with CI/CD Pipelines…   
-- Modern web development engineer for robust applications. led the front-end team and involved spearheading agile development/QA teams, fostering seamless communication, providing mentorship, development engaging closely with product owners to ensure project achievements.  
+- Successfully transformed Embraer's aviation CRM system into a large-scale distributed system (intranet) using Microsoft DevOps, AWS, Docker, Kubernetes, and Git/Git-Flow with CI/CD Pipelines.
+- Led the front-end team, spearheaded agile development/QA teams, and ensured project achievements by engaging closely with product owners.
 
 * **Stack / Tools / Methodology:**
 
@@ -91,7 +85,7 @@ Dedicated to continuous learning and providing team guidance, I am committed to 
   - [https://newsroom.sw.siemens.com/en-US/](https://newsroom.sw.siemens.com/en-US/)  
   - The outcome of the project involved partnering with cross-functional teams to architect and execute innovative software solutions, crafting and sustaining high-caliber applications with a wide range of technologies, and initiatives to ensure adherence to timelines and quality standards. Additionally, the project resulted in Luminary Cloud licensing Siemens' Parasolid modeling kernel technology for integration with their cloud-native Computer-Aided Engineering (CAE) platform, enabling Realtime Engineering and providing seamless access to native CAD models.  
   
-  - **Stack / Tools / Methodology:**
+* **Stack / Tools / Methodology:**
   
   |● Node.js          | ● Vue.js           | ● TypeScript     |
   |:------------------|:-------------------|:-----------------|
@@ -100,6 +94,7 @@ Dedicated to continuous learning and providing team guidance, I am committed to 
   |● Terraform        | ● Load Balance     | ● MongoDB        |
   |● Git/Gitflow      | ● DevOps \- CI/CD  | ● AWS Services   |
   |● Docker           | ● Kubernetes       | ● Agile/Scrum    |
+
 
 ---
 
@@ -111,16 +106,10 @@ Dedicated to continuous learning and providing team guidance, I am committed to 
 
 #### PRUDENTIAL
 
-- Engineered a dynamic, customizable B.I. 360 view dashboard platform for a premier financial services firm.
+- Engineered a dynamic, customizable B.I. 360 view dashboard platform for a premier financial services firm, empowering users to craft their metrics and extract actionable insights from historical data.
 - Employed ReactJs using NextJs, Unit test (Jest), CI/CD, SonarQube...
 - Orchestrated team priorities, fostered communication, and provided mentorship.
 - Advocated for development excellence and agile best practices.
-- Engaged closely with product owners to ensure project objectives were met and exceeded.
-
-**PRUDENTIAL PROJECT:**
-Engineered a dynamic, customizable B.I. 360 view dashboard platform for a premier financial services firm, empowering users to craft their metrics and extract actionable insights from historical data.
-Employed React, Jest, CI/CD, and more to deliver the solution.
-Excelled as a tech lead, setting the standard for stack usage and processes to fulfill client expectations.
 
 - **Stack / Tools / Methodology:**
 
@@ -150,14 +139,14 @@ Excelled as a tech lead, setting the standard for stack usage and processes to f
 - Proactively acquired new skills in Rust and NEAR to align with project requirements and objectives.
 
 - **Stack / Tools / Methodology:**
-● NodeJs			        ● NextJs			     ● ReactJs
-● TypeScript 			   ● JavaScript 			● HTML
-● StyledComponent		● Stitches			   ● API REST-FULL 
-● RabbitMQ			      ● Terraform			  ● Load Balance
-● GraphQL			       ● Git/Gitflow			● DevOps - CI/CD
-● AWS Services		   ● Docker			     ● Kubernetes
-● Agile/Scrum 		   ● OOP				       ● Blockchain
-● NEAR			          ● RPC PROTOCOL		● Ethereum
+
+  |● Node.js          | ● Next.js			  |  ● React.js         |
+  |:------------------|:----------------|:--------------------|
+  |● TypeScript       | ● JavaScript 	  |  ● HTML             |
+  |● StyledComponent  | ● Stitches		  |  ● API REST-FULL    |
+  |● GraphQL          | ● Git/Gitflow	  |  ● DevOps \- CI/CD  |
+  |● Blockchain       | ● Agile/Scrum   |  ● OOP		          |
+  |● Ethereum         | ● NEAR Protocol	|	● RPC PROTOCOL      |
 
 ---
 
@@ -175,16 +164,17 @@ Excelled as a tech lead, setting the standard for stack usage and processes to f
 
 * **Stack / Tools / Methodology:**
 
-  | ● PHP				         | ● MySQL  			        | ● LLM\`s        |
-  |:------------------|:--------------------|:----------------|
-  | ● NodeJs			       | ● Express			        |● ReactJs        |
-  | ● TypeScript 			  | ● JavaScript 			    |● HTML           |
-  | ● StyledComponent	| ● Stitches			       |● API REST-FULL  |
-  | ● Load Balance		  | ● DevOps \- CI/CD   |● Git/Gitflow		  |
-  | ● AWS Services		  | ● Docker			         |● OOP            |
-  | ● Agile/Kanban 		 | ● Python            |                 |
+  | ● PHP             | ● MySQL           | ● LLMs           |
+  |:------------------|:------------------|:-----------------|
+  | ● NodeJs          | ● Express         | ● ReactJs        |
+  | ● TypeScript      | ● JavaScript      | ● HTML           |
+  | ● StyledComponent | ● Stitches        | ● API REST-FULL  |
+  | ● Load Balance    | ● DevOps - CI/CD  | ● Git/Gitflow    |
+  | ● AWS Services    | ● Docker          | ● OOP            |
+  | ● Agile/Kanban    | ● Python          |                  |
 
 ---
+
 
 ### LIGADOS COMUNICAÇÃO
 
@@ -210,6 +200,7 @@ Excelled as a tech lead, setting the standard for stack usage and processes to f
 ---
 
 ### Objeto C&T (COMUNICAÇÃO E TECNOLOGIA)
+
 *Full-Stack Developer*  
 *Aug 2014 - Jul 2017*  
 *Brazil*
@@ -266,15 +257,13 @@ Excelled as a tech lead, setting the standard for stack usage and processes to f
 
 ## Education
 
-- **B.Tech. in Software Engineering**
-  - *PUC-GO (Pontifícia Universidade Católica de Goiás)*
-  - *Bachelor of Computer Software Engineering* (Incomplete)
-  - *2014--2019*
+**B.Tech. in Software Engineering**  
+- PUC-GO (Pontifícia Universidade Católica de Goiás)  
+- Bachelor of Computer Software Engineering (Incomplete)  
+- 2014–2019
 
 ## Language Proficiency
 
 - English: Advanced (C1)
 - Portuguese: Native Speaker
 - Spanish: Intermediate Proficiency (B2)
-
----
