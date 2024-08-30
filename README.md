@@ -1,12 +1,12 @@
-# SENIOR FULL STACK DEVELOPER & TEAM MANAGER
+**Gabriel Ariza**  
+Sr. Software Engineer   
+Full Stack Developer & Team Leader
 
-![Profile Picture](https://avatars.githubusercontent.com/u/72627426?v=4)
+![Profile Picture](https://media.licdn.com/dms/image/v2/D4D03AQH4w4rnRMGHAw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723592070288?e=1730332800&v=beta&t=birhpI9pHabf8MM4Rc0ZzKJustzKAzwazjZSdGq2uxg)
 
  ---
-**Ariza, Gabriel**
  *(12+ Years of Professional Development Experience)*
 
-**Software Engineer**  
 **📍 Location:** Goiânia - Go, São Paulo - SP, Curitiba - PR, Brazil  
 **📱 Whatsapp:** [+55 062 992-776-060](https://wa.me/+55062992776060) | 📞 Phone: [+55 062 993-223-016](tel:+5562993223016)  
 **📧 Email:** [myblenet@gmail.com](mailto:myblenet@gmail.com)  
@@ -16,31 +16,39 @@
 ---
 
 ## <span style="color:#333444">SUMMARY</span>
- Accomplished Full Stack Web Developer and Manager with a robust 12-year track record in software development and leadership. Specializing in the creation of complex, scalable applications across various industries, I bring a wealth of expertise in Full Stack Development with expertise in React, React.js, PHP, MySQL, Node.js, JavaScript, TypeScript, and others. 
+ Sr. Software Engineer with over 10 years of experience in Full Stack development, including leadership roles and Agile/Scrum methodology. My solutions are crafted to address real-world challenges and deliver value-driven results to clients through direct engagement, enhancing my skills in problem-solving and project execution.
 
-My technical acumen extends to Docker, AWS, Kubernetes, underpinned by a commitment to best practices, design patterns, and agile methodologies for TDD/ODD/DDD CI/CD. 
+Experienced with complex and scalable applications, including distributed systems that horizontally auto-scale with Kubernetes and AWS services such as EC2, S3, and ELB. As an experienced problem solver with a background in a wide range of industries, I have specialized in Agile development processes and CI/CD pipeline automation, focusing on client satisfaction.
 
-My solutions are crafted to address real-world challenges and deliver value-driven results to clients by direct client engagement, fostering my skills in problem-solving and project execution. 
-
-I am dedicated to continuous technological advancement, equipping me to provide informed guidance and superior outcomes for clients.
+Dedicated to continuous learning and providing team guidance, I am committed to advancing my skills and supporting my team in achieving excellence.
 
 ---
 
 ## TECHNICAL SKILLS
-- **Front-End:**
-  - JavaScript (10+ years), TypeScript (8+ years), React (7+ years), NextJs (4 years), Vue.js (3 years)
-- **Front-End:**
-  - PHP (13+ years), Node.js (9 years), Python (4+ years), Ruby/Rails (4 years), SQL/NoSQL (10+ years)
-- **DevOps:**
-  - AWS (EC2, S3, RDS, ELB, LAMBDA, Serverless, API Gateway, CloudFront, CodePipeline, CodeDeploy, CodeBuild, IAM, ACM, WAF, CloudFormation) Docker (4+ years), Kubernetes (2+ years) CI/CD (7+ years) Git/Gitflow (9 years) Terraform (IaC - Infra as Code), CDKTF (CDK for typescript or other language instead to HCL)
-- **Blockchain:**
-  - Rust, NEAR, Solidity, Ethereum
-- **Other:**
-  - OOP (12+ years) API RESTFul (8+ years), GraphQL (4 years)
-- **Monitoring and Observability:**
-  - Grafana, Prometheus, AWS CloudWatch (1+ year), AWS Splunk
-- **Messaging and Queuing:**
-  - RebbitMQ, Kafka, AWS Kinesis
+
+**Technical Skills**
+
+* **Front-End:**  
+  * JavaScript (10+ years), TypeScript (8+ years), React (7+ years), NextJs (4 years), Vue.js (3 years)  
+* **Back-End:**  
+  * PHP (13+ years), Node.js (9 years), Python (4+ years), Ruby/Rails (4 years), SQL/NoSQL (10+ years)  
+* **DevOps:**  
+  * AWS (EC2, S3, RDS, ELB, LAMBDA, Serverless, API Gateway, CloudFront, CodePipeline, CodeDeploy, CodeBuild, IAM, ACM, WAF, CloudFormation)  
+  * Docker (4+ years), Kubernetes (2+ years)  
+  * CI/CD (7+ years)  
+  * Git/Gitflow (9 years)  
+  * Terraform (IaC \- Infra as Code), CDKTF  
+* **Blockchain:**  
+  * Rust, NEAR, Solidity, Ethereum  
+* **Other:**  
+  * OOP (12+ years)  
+  * API RESTFul (8+ years),   
+  * GraphQL (3 years)  
+* **Monitoring and Observability**  
+  * Grafana, Prometheus, AWS CloudWatch (1+ year)  
+* **Messaging and Queuing**  
+  * RebbitMQ (1 year)  
+  * Apache Kafka
 
 ### Leadership and Strategic Planning
 
@@ -59,42 +67,41 @@ I am dedicated to continuous technological advancement, equipping me to provide 
 ### TATA Consultancy Services (TCS)
 
 *Senior FullStack TechLead Developer*  
-*October 2022 - March 2024*  
+*October 2022 - Nov 2023*  
 *Remote (Germany/Mexico/Brazil/Portugal/USA)*
 
 #### FLY-EMBRAER
 
 - [Figma](https://www.figma.com/file/iEaKoyPVMYaAFYgBKEoMfh/FlyEmbraer?type=whiteboard&node-id=1040%3A98121&t=K0lmTsv2JLoxWt3Q-1)
-- Led agile development/QA teams in transforming Embraer's aviation software, overseeing 7-9 professionals.
-- Utilized Microsoft DevOps, AWS, Kubernetes, Git/Git-Flow, Pipeline, Docker, and modern web development languages.
-- Orchestrated team priorities, fostered communication, and provided mentorship.
-- Advocated for development excellence and agile best practices.
-- Engaged closely with product owners to ensure project objectives were met and exceeded.
-- The outcome of the project was the successful transformation of Embraer's aviation software, achieved through the rebuilding of the CRM of the intranet system. 
-- This involved leveraging various technologies such as Microsoft DevOps, AWS, Kubernetes, Git/Git-Flow, Pipeline, Docker, and modern web development languages to engineer robust applications. The project was led by a Senior Consultant & FullStack TechLead Developer and involved spearheading agile development/QA teams, overseeing skilled professionals, orchestrating team priorities, fostering seamless communication, providing mentorship, advocating for development excellence, and engaging closely with product owners to ensure project objectives were met and exceeded.
+- The outcome of the project was the successful transformation of Embraer's aviation CRM System a large scale distributed system (intranet).   
+- This involved leveraging various technologies such as Microsoft DevOps, AWS, Docker, Kubernetes, Git/Git-Flow with CI/CD Pipelines…   
+- Modern web development engineer for robust applications. led the front-end team and involved spearheading agile development/QA teams, fostering seamless communication, providing mentorship, development engaging closely with product owners to ensure project achievements.  
 
-- **Stack / Tools / Methodology:**
-● NodeJs			        ● NextJs			     ● ReactJs
-● TypeScript 			   ● JavaScript 			● HTML
-● StyledComponent		● TailWind CSS		● API REST-FULL 
-● Kafka			         ● Terraform			  ● Load Balance
-● PostgreSQL		     ● Git/Gitflow			● DevOps - CI/CD
-● AWS Services		   ● Docker			     ● Kubernetes
-● Agile/Scrum 		   ● OOP
+* **Stack / Tools / Methodology:**
+
+  |● Node.js          | ● Next.js          | ● React.js         |
+  |:------------------|:-------------------|:-------------------|
+  |● TypeScript       | ● JavaScript       | ● HTML             |
+  |● StyledComponents | ● TailWind CSS     | ● API REST-FULL    |
+  |● Kafka            | ● Terraform        | ● Load Balancer    |
+  |● PostgreSQL       | ● Git/Gitflow      | ● DevOps - CI/CD   |
+  |● AWS Services     | ● Docker           | ● Kubernetes       |
+  |● Agile/Scrum      | ● OOP              |                    |
 
 #### SIEMENS-ENERGY D.I.J SYSTEM PROJECT
 
-- Partnered with cross-functional teams to architect and execute innovative software solutions.
-- Crafted and sustained high-caliber applications with DevOps, Git, React, GraphQL, Jest, and more.
-- Directed team initiatives, ensuring adherence to timelines and quality standards.
-
-- **Stack / Tools / Methodology:**
-● NodeJs			      ● VueJs			        ● TypeScript 
-● JavaScript 			 ● HTML			         ● CSS /SCSS
-● TailWind CSS 		● API REST-FULL 		● RabbitMQ
-● Terraform			   ● Load Balance		  ● MongoDB
-● Git/Gitflow			 ● DevOps - CI/CD		● AWS Services
-● Docker			      ● Kubernetes			   ● Agile/Scrum
+  - [https://newsroom.sw.siemens.com/en-US/](https://newsroom.sw.siemens.com/en-US/)  
+  - The outcome of the project involved partnering with cross-functional teams to architect and execute innovative software solutions, crafting and sustaining high-caliber applications with a wide range of technologies, and initiatives to ensure adherence to timelines and quality standards. Additionally, the project resulted in Luminary Cloud licensing Siemens' Parasolid modeling kernel technology for integration with their cloud-native Computer-Aided Engineering (CAE) platform, enabling Realtime Engineering and providing seamless access to native CAD models.  
+  
+  - **Stack / Tools / Methodology:**
+  
+  |● Node.js          | ● Vue.js           | ● TypeScript     |
+  |:------------------|:-------------------|:-----------------|
+  |● JavaScript       | ● HTML             | ● CSS /SCSS      |
+  |● TailWind CSS     | ● API REST-FULL    | ● RabbitMQ       |
+  |● Terraform        | ● Load Balance     | ● MongoDB        |
+  |● Git/Gitflow      | ● DevOps \- CI/CD  | ● AWS Services   |
+  |● Docker           | ● Kubernetes       | ● Agile/Scrum    |
 
 ---
 
@@ -107,7 +114,7 @@ I am dedicated to continuous technological advancement, equipping me to provide 
 #### PRUDENTIAL
 
 - Engineered a dynamic, customizable B.I. 360 view dashboard platform for a premier financial services firm.
-- Employed React, Jest, CI/CD, and more to deliver the solution.
+- Employed ReactJs using NextJs, Unit test (Jest), CI/CD, SonarQube...
 - Orchestrated team priorities, fostered communication, and provided mentorship.
 - Advocated for development excellence and agile best practices.
 - Engaged closely with product owners to ensure project objectives were met and exceeded.
@@ -118,13 +125,15 @@ Employed React, Jest, CI/CD, and more to deliver the solution.
 Excelled as a tech lead, setting the standard for stack usage and processes to fulfill client expectations.
 
 - **Stack / Tools / Methodology:**
-● NodeJs			        ● NextJs			      ● ReactJs
-● TypeScript 			   ● JavaScript 			 ● HTML
-● StyledComponent		● TailWind CSS		 ● API REST-FULL 
-● RabbitMQ			      ● Terraform			   ● Load Balance
-● PostgreSQL		     ● Git/Gitflow			 ● DevOps - CI/CD
-● AWS Services		   ● Docker			      ● Kubernetes
-● Agile/Scrum 		   ● OOP
+
+  | ● Node.js          | ● Next.js          | ● React.js     |
+  |:------------------ |:-------------------|:---------------|
+  | ● TypeScript       | ● JavaScript       | ● HTML         |
+  | ● StyledComponent  | ● API REST-FULL    | ● RabbitMQ     |
+  | ● Terraform        | ● Load Balancer    | ● Git/Gitflow  |
+  | ● DevOps CI/CD     | ● AWS Services     | ● Docker       |
+  | ● Kubernetes       | ● Agile/Scrum      | ● TailWind CSS |
+  | ● PostgreSQL       | ● OOP              |                |
 
 ---
 
@@ -160,19 +169,22 @@ Excelled as a tech lead, setting the standard for stack usage and processes to f
 *September 2019 - November 2021*  
 *Presential (Brazil)*
 
-- As CTO and co-founder, instrumental in pioneering business intelligence strategies and crafting innovative technology solutions.
+- Spearheaded business intelligence strategies and development of innovative technology solutions  
 - Created proprietary assessment tools that provided clients with unmatched insights and value.
 - Established a robust foundation and made pivotal contributions until the partnership concluded due to the COVID-19 pandemic.
+- Created proprietary assessment tools for enhanced client insights;  
+- Delivered around 35 on demand CRM Systems and custom microservices;
 
-**Stack / Tools / Methodology:**
+* **Stack / Tools / Methodology:**
 
-● PHP				          ● MySQL			         ● LLM`s
-● NodeJs			        ● Express			       ● ReactJs
-● TypeScript 			   ● JavaScript 			   ● HTML
-● StyledComponent		● Stitches			      ● API REST-FULL 
-● Load Balance		   ● DevOps - CI/CD		 ● Git/Gitflow		
-● AWS Services		   ● Docker           ● Agile/Kanban
-● OOP	
+  | ● PHP				         | ● MySQL  			        | ● LLM\`s        |
+  |:------------------|:--------------------|:----------------|
+  | ● NodeJs			       | ● Express			        |● ReactJs        |
+  | ● TypeScript 			  | ● JavaScript 			    |● HTML           |
+  | ● StyledComponent	| ● Stitches			       |● API REST-FULL  |
+  | ● Load Balance		  | ● DevOps \- CI/CD   |● Git/Gitflow		  |
+  | ● AWS Services		  | ● Docker			         |● OOP            |
+  | ● Agile/Kanban 		 | ● Python            |                 |
 
 ---
 
@@ -184,17 +196,18 @@ Excelled as a tech lead, setting the standard for stack usage and processes to f
 
 - As CEO and co-founder, expanded a small web and marketing agency, growing the team to 8 and successfully delivering approximately 60 custom software solutions.
 
-**Stack / Tools / Methodology:**
+* **Stack / Tools / Methodology:**
 
-● PHP				          ● MySQL			        ● PostgreSQL
-● NodeJs			        ● Express			      ● ReactJs
-● JavaScript 			   ● TypeScript 			  ● AngularJs
-● HTML			          ● CSS				         ● LESS / SASS
-● StyledComponent		● Bootstrap			    ● API REST-FULL 
-● Load Balance		   ● DevOps - CI/CD		● Git/Gitflow
-● AWS Services		   ● Docker			       ● Apache
-● NGinx			         ● VPS				         ● CodIgniter
-● Agile/Kanban 		  ● OOP	
+  | ● PHP            | ● MySQL         | ● PostgreSQL    |
+  |:-----------------|:----------------|:---------------|
+  | ● Node.js        | ● Express       | ● React.js     |
+  | ● JavaScript     | ● TypeScript    | ● Angular.js   |
+  | ● HTML           | ● CSS           | ● LESS / SASS  |
+  | ● Ruby on Rails  | ● Bootstrap     | ● API REST-FULL|
+  | ● Load Balance   | ● DevOps - CI/CD| ● Git/Gitflow  |
+  | ● AWS Services   | ● Docker        | ● Apache       |
+  | ● NGinx          | ● VPS           | ● CodIgniter   |
+  | ● Agile/Kanban   | ● OOP           | ● IaC          |
 
 ---
 
@@ -205,9 +218,10 @@ Excelled as a tech lead, setting the standard for stack usage and processes to f
 
 #### Max Nível - AWS, Scalable Marketing Multilevel System
 
-- Developed a Scalable Marketing Multilevel System (marketing multilevel system) on AWS, achieving over 200k daily online users.
-- Designed, developed, and maintained websites, e-commerce platforms, and business applications with PHP, Node.js, and Python.
-- Managed microservices on AWS and led full-stack development and maintenance for a platform with 80,000+ daily active users.
+- Developed a scalable marketing multilevel system on AWS, achieving over 200k daily online users.
+- Designed, developed, and maintained several cloud applications such as microservices, API Gateway, websites, e-commerce platforms, and business solutions.  
+- Managed AWS cloud services to deploy and scale infrastructure for scalable applications and microservices.  
+- Crafted and maintained web applications using diverse technologies adhering to industry needs.
 
 #### Website’s & Ecommerce’s
 
@@ -216,17 +230,18 @@ Excelled as a tech lead, setting the standard for stack usage and processes to f
 
 - **Stack / Tools / Methodology:**
 
-● PHP				          ● MySQL			          ● PostgreSQL
-● NodeJs			        ● Express			        ● ReactJs
-● JavaScript 			   ● TypeScript 			    ● AngularJs
-● HTML			          ● CSS				           ● LESS / SASS
-● StyledComponent		● Bootstrap			      ● API REST-FULL 
-● Load Balance		   ● DevOps - CI/CD		  ● Git/Gitflow		
-● AWS Services		   ● Docker			         ● Apache
-● NGinx			         ● VPS				           ● CodIgniter
-● ZendFramework		  ● CodIgniter			     ● Python
-● Agile/Scum 		    ● OOP				           ● Ruby on Rail
-● Java				         ● .NET					
+  | ● PHP             | ● MySQL           | ● PostgreSQL     |
+  |:------------------|:------------------|:-----------------|
+  | ● Node.js         | ● Express         | ● React.js       |
+  | ● JavaScript      | ● TypeScript      | ● Angular.js     |
+  | ● HTML            | ● CSS             | ● LESS / SASS    |
+  | ● Bootstrap       | ● API REST-FULL   | ● Laravel        |
+  | ● Load Balance    | ● DevOps - CI/CD  | ● Git/Gitflow    |
+  | ● AWS Services    | ● Docker          | ● Apache         |
+  | ● NGinx           | ● VPS             | ● CodIgniter     |
+  | ● ZendFramework   | ● CodIgniter      | ● Python         |
+  | ● Agile/Scrum     | ● OOP             | ● Ruby on Rails  |
+  | ● Java            | ● .NET            |                  |
 
 ---
 
