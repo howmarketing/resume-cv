@@ -52,13 +52,11 @@ Dedicated to continuous learning and providing team guidance, I am committed to 
 
 ### Leadership and Strategic Planning
 
-- Visionary Team Leadership
+- Team Leadership & Mentorship
+- Agile Methodologies (Scrum)
+- Client Engagement & Collaboration
 - Strategic Project Management
 - Continuous Process Improvement
-- Agile & Scrum Methodologies
-- Technical Coaching & Mentorship
-- Client Engagement & Collaboration
-- Cross-functional Team Integration
 
 ---
 
