@@ -1,8 +1,6 @@
-**Gabriel Ariza**  
+# **Gabriel Ariza**
 Sr. Software Engineer   
 Full Stack Developer & Team Leader
-
-![Profile Picture](https://media.licdn.com/dms/image/v2/D4D03AQH4w4rnRMGHAw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723592070288?e=1730332800&v=beta&t=birhpI9pHabf8MM4Rc0ZzKJustzKAzwazjZSdGq2uxg)
 
  ---
  *(12+ Years of Professional Development Experience)*
@@ -17,35 +15,17 @@ Full Stack Developer & Team Leader
 
 ## <span style="color:#333444">SUMMARY</span>
 
-- Sr. Software Engineer with over 10 years of experience in Full Stack development and leadership roles.
-- Skilled in Agile/Scrum methodologies, delivering value-driven solutions.
-- Expertise in complex applications, distributed systems, Kubernetes, and AWS services.
-- As an experienced problem solver with a background in a wide range of industries, I have specialized in Agile development processes and CI/CD pipeline automation, focusing on client satisfaction.
-- Dedicated to continuous learning and providing team guidance, I am committed to advancing my skills and supporting my team in achieving excellence.
+Senior Software Engineer with 12+ years of full-stack development experience, including leadership in Agile teams. Proven track record designing scalable distributed systems using AWS, Kubernetes, and modern web stacks. Skilled at solving complex business challenges with secure, maintainable, and high-performance code. Passionate about continuous learning, mentoring, and driving delivery excellence.
 
-**Technical Skills**
+### Technical Skills
 
-* **Front-End:**  
-  * JavaScript (10+ years), TypeScript (8+ years), React (7+ years), NextJs (4 years), Vue.js (3 years)  
-* **Back-End:**  
-  * PHP (13+ years), Node.js (9 years), Python (4+ years), Ruby/Rails (4 years), SQL/NoSQL (10+ years)  
-* **DevOps:**  
-  * AWS (EC2, S3, RDS, ELB, LAMBDA, Serverless, API Gateway, CloudFront, CodePipeline, CodeDeploy, CodeBuild, IAM, ACM, WAF, CloudFormation)  
-  * Docker (4+ years), Kubernetes (2+ years)  
-  * CI/CD (7+ years)  
-  * Git/Gitflow (9 years)  
-  * Terraform (IaC \- Infra as Code), CDKTF  
-* **Blockchain:**  
-  * Rust, NEAR, Solidity, Ethereum  
-* **Other:**  
-  * OOP (12+ years)  
-  * API RESTFul (8+ years),   
-  * GraphQL (3 years)  
-* **Monitoring and Observability**  
-  * Grafana, Prometheus, AWS CloudWatch (1+ year)  
-* **Messaging and Queuing**  
-  * RebbitMQ (1 year)  
-  * Apache Kafka
+- **Frontend**: JavaScript (10+), TypeScript (8+), React (7+), Next.js (4+), Vue.js (3+)
+- **Backend**: Node.js (9+), PHP (13+), Python (4+), Ruby/Rails (4+), SQL/NoSQL (10+)
+- **DevOps**: AWS (Lambda, EC2, S3, RDS, API Gateway, etc.), Docker, Kubernetes, CI/CD, Terraform, GitHub Actions, Git/GitFlow
+- **Blockchain**: Solidity, Rust, NEAR, Ethereum
+- **Observability**: CloudWatch, Grafana, Prometheus
+- **Messaging**: Kafka, RabbitMQ
+- **Other**: GraphQL, RESTful APIs, OOP, Clean Architecture
 
 **Leadership & Strategic Planning**
 
@@ -55,7 +35,32 @@ Full Stack Developer & Team Leader
 * Strategic Project Management
 * Continuous Process Improvement
 
-**Professional Experience**
+### Professional Experience
+
+#### **SoftwareMind (Aderant)**
+
+**Sr. Software Engineer — Full Stack**
+*Jul 2024 – Present • Remote (USA-based)*
+
+* Modernized a legacy legal tech platform into a secure, performant multi-tenant SaaS solution.
+* Integrated a tenant-specific on-premise AI engine trained to extract compliance rules from legal OCGs (Outside Counsel Guidelines) and enforce them throughout billing and time-tracking workflows.
+* Refactored core services for better performance and scalability, resulting in a 40% improvement in key operations.
+* Collaborated with U.S.-based stakeholders and cross-functional teams to define product direction, ensuring timely delivery of roadmap items aligned with legal and financial compliance.
+* Contributed to unit testing, DevOps (CI/CD with GitHub Actions), and infrastructure-as-code (Terraform).
+
+#### **Reinsurance Group of America (RGA)**
+
+**Sr. Software Engineer — Full Stack**
+*Nov 2024 – May 2025 • Remote (USA-based)*
+
+* Led the architecture and implementation of the **Enterprise Data Platform (EDP)**, a cloud-native ingestion and transformation engine for structured documents and MVRs (Motor Vehicle Records).
+* Built modular and reusable ingestion jobs that enabled multi-client scalability with Snowflake.
+* Designed dynamic job groups to support file validation, metadata normalization, and data lineage across ingestion pipelines.
+* Automated infrastructure with Terraform and created secure deployment workflows using GitHub Actions.
+* Created a layered architecture for Lambda-based orchestration using Step Functions and custom retry logic.
+* Designed the ingestion schema and created validation strategies to ensure strict adherence to data governance requirements.
+* Resulted in 15% cost reduction and 30% error rate reduction by removing manual intervention and optimizing system concurrency.
+
 
 ### TATA Consultancy Services (TCS)
 
@@ -259,8 +264,12 @@ Full Stack Developer & Team Leader
 
 **B.Tech. in Software Engineering**  
 - PUC-GO (Pontifícia Universidade Católica de Goiás)  
-- Bachelor of Computer Software Engineering (Incomplete)  
+- Bachelor of Computer Software Engineering  
 - 2014–2019
+
+**Bachelor of Science in Computer Science (Incomplete)**  
+- UNI-AMÉRICA, Brazil
+- Bachelor of Computer Science (Incomplete)
 
 ## Language Proficiency
 
